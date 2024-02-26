@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-<h1 align="center"> The Buggs Bunnys  </h1>
+<h1 align="center"> `The Buggs Bunnys`  </h1>
 
 ## Tabla de Contenidos
 1. [Problematica](#problematica)
@@ -8,9 +8,10 @@
 4. [Run Locally](#run-Locally)
 5. [Autores](#autores)
 
-<img  align="center" src="[C:\Users\Hp EliteBook 840 G3\Downloads\Polainas.png]" width="200" height="200">
+<img width="444" alt="Polainas" src="https://github.com/Obleas777/ProyectoBootcam/assets/108082744/1dc01edc-3c7f-40cf-87bf-2513342c2bc5">
 
-## Problematica: Gestión Ineficiente del Inventario y Experiencia del Cliente Limitada
+## Problematica: 
+Gestión Ineficiente del Inventario y Experiencia del Cliente Limitada
 
 En el negocio películas PolainasMovies, se enfrentan a una gestión ineficiente del inventario y una experiencia del cliente limitada, debido a la falta de una API que conecte y automatice sus sistemas internos. Actualmente, la información sobre el inventario de películas se mantiene de manera descentralizada y manual, lo que resulta en varios desafíos, por lo cual la implementación de una API bien diseñada resolvería estos problemas al facilitar la automatización de procesos, mejorando la precisión de los datos.
 
@@ -26,7 +27,7 @@ Cada una tiene una funcionalidad la cual es:
 * JavaScript
 * Ubuntu
   
-# 📂 Acceso al Proyecto
+## 📂 Acceso al Proyecto
 
 ## Run Locally
 
@@ -111,12 +112,12 @@ Then, navitate to `frontend` folder:
 
 Run the following script:
 
-`npm run dev`
+## npm run dev
 =======
 
-## Autores :octocat:
-* Omar Vazquez ()
-* Obed Alvarado ()
-* Litzy Diaz O ()
+## Autores 
+* :octocat: Omar Vazquez (Omar19Ort)
+* :octocat: Obed Alvarado (Obleas 777)
+* :octocat: Litzy Diaz O (LitzyDiaz0)
   
 >>>>>>>
