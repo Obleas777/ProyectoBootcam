@@ -1,14 +1,14 @@
-<<<<<<< HEAD
+<<<<<<< 
 <h1 align="center"> The Buggs Bunnys  </h1>
 
 ## Tabla de Contenidos
 1. [Problematica](#problematica)
 2. [Funcionalidad](#funcionalidad)
-3. [Tecnologias implicadas](#tecnologias-utilizadas)
+3. [Tecnologias implicadas](#tecnologias-Utilizadas)
 4. [Run Locally](#run-Locally)
 5. [Autores](#autores)
 
-<center><img width="444" alt="Polainas" src="https://github.com/Obleas777/ProyectoBootcam/assets/108082744/1dc01edc-3c7f-40cf-87bf-2513342c2bc5"></center>
+<p align="center"><img width="444" alt="Polainas" src="https://github.com/Obleas777/ProyectoBootcam/assets/108082744/1dc01edc-3c7f-40cf-87bf-2513342c2bc5"></p>
 
 ## Problematica: 
 <h2 align="center"> Gestión Ineficiente del Inventario y Experiencia del Cliente Limitada</h2>
