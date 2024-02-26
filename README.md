@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-<em> # TITULO </em>
-# The Buggs Bunnys 
+<h1 align="center"> The Buggs Bunnys  </h1>
 
 Problematica: Gestión Ineficiente del Inventario y Experiencia del Cliente Limitada
 
