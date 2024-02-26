@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<em> # TITULO </em>
 # The Buggs Bunnys 
 
 problematica: Gestión Ineficiente del Inventario y Experiencia del Cliente Limitada
