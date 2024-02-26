@@ -17,6 +17,8 @@ En el negocio películas PolainasMovies, se enfrentan a una gestión ineficiente
 
 
 ## 💻 Funcionalidad:
+{#funcionalidad}
+
 La funcionalidad de esta API, se basa en que tiene altas, bajas, cambios y consultas que es comunmente utilizada para que se comunique el inventario.
 Cada una tiene una funcionalidad la cual es:
 * POST(altas): Envia la información al servidor para que sea procesada y almacenada.
@@ -26,6 +28,7 @@ Cada una tiene una funcionalidad la cual es:
 
 
 ## ✅ Tecnologias Utilizadas:
+{#tecnologias-Utilizadas}
 * JavaScript
 * Ubuntu
 
