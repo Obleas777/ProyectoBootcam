@@ -119,8 +119,8 @@ Run the following script:
 =======
 
 ## Autores 
-* :octocat: Omar Vazquez (Omar19Ort)
-* :octocat: Obed Alvarado (Obleas 777)
+* :octocat:[Omar Vazquez](https://github.com/Omar19Ort).
+* :octocat: [Obed Alvarado](https://github.com/Obleas777).
 * :octocat: [Litzy Diaz O](https://github.com/LitzyDiaz0).
   
 >>>>>>>
