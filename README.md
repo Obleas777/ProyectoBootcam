@@ -18,7 +18,7 @@ DELETE(eliminar): Elimina un recurso existente, la cual puedes especificar el ID
 Clone the project
 
 ```bash
-  git clone https://github.com/adrian-d-hidalgo/azle-api-rest-nextjs
+  git clone https://github.com/Obleas777/ProyectoBootcam
 ```
 
 Go to the project directory
