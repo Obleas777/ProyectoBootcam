@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fullstack dApp (Azle + Express + NextJS + ICP)
 
 This template is designed to easily build applications deployed on ICP using Azle + Express for RESTful APIs and Next.js for frontend development.
@@ -86,3 +87,7 @@ Then, navitate to `frontend` folder:
 Run the following script:
 
 `npm run dev`
+=======
+# ProyectoBootcam
+TheBugsBonnys
+>>>>>>> a8b9350dc091eecc201ad43c98fad115f5263b3c
