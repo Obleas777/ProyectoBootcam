@@ -1,9 +1,18 @@
 <<<<<<< HEAD
 <h1 align="center"> The Buggs Bunnys  </h1>
 
-Problematica: Gestión Ineficiente del Inventario y Experiencia del Cliente Limitada
+![Logo Polainas Movies](https://github.com/Obleas777/ProyectoBootcam/assets/108082744/2fe7ae63-f31e-4837-b40d-ac57f0feba11)
 
-En el negocio de películas PolainasMovies, se enfrentan a una gestión ineficiente del inventario y una experiencia del cliente limitada, debido a la falta de una API que conecte y automatice sus sistemas internos. Actualmente, la información sobre el inventario de películas se mantiene de manera descentralizada y manual, lo que resulta en varios desafíos, por lo cual la implementación de una API bien diseñada resolvería estos problemas al facilitar la automatización de procesos, mejorando la precisión de los datos.
+## Tabla de Contenidos
+1. [Problematica](#problematica)
+2. [Funcionalidad](#funcionalidad)
+3. [Tecnologias implicadas](#tecnologias-utilizadas)
+4. [Run Locally](#run-Locally)
+5. [Licencia](#licencia)
+
+## Problematica: Gestión Ineficiente del Inventario y Experiencia del Cliente Limitada
+
+En el negocio películas PolainasMovies, se enfrentan a una gestión ineficiente del inventario y una experiencia del cliente limitada, debido a la falta de una API que conecte y automatice sus sistemas internos. Actualmente, la información sobre el inventario de películas se mantiene de manera descentralizada y manual, lo que resulta en varios desafíos, por lo cual la implementación de una API bien diseñada resolvería estos problemas al facilitar la automatización de procesos, mejorando la precisión de los datos.
 
 ## Funcionalidad:
 La funcionalidad de esta API, se basa en que tiene altas, bajas, cambios y consultas que es comunmente utilizada para que se comunique el inventario.
@@ -14,8 +23,8 @@ Cada una tiene una funcionalidad la cual es:
 * DELETE(eliminar): Elimina un recurso existente, la cual puedes especificar el ID del recurso que quieras eliminar.
 
 ## Tecnologias Utilizadas:
--JavaScript
--Ubuntu
+* JavaScript
+* Ubuntu
 
 ## Run Locally
 
