@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-<h1 align="center"> `The Buggs Bunnys`  </h1>
+<h1 align="center"> The Buggs Bunnys  </h1>
 
 ## Tabla de Contenidos
 1. [Problematica](#problematica)
@@ -8,12 +8,13 @@
 4. [Run Locally](#run-Locally)
 5. [Autores](#autores)
 
-<img width="444" alt="Polainas" src="https://github.com/Obleas777/ProyectoBootcam/assets/108082744/1dc01edc-3c7f-40cf-87bf-2513342c2bc5">
+<center><img width="444" alt="Polainas" src="https://github.com/Obleas777/ProyectoBootcam/assets/108082744/1dc01edc-3c7f-40cf-87bf-2513342c2bc5"></center>
 
 ## Problematica: 
-Gestión Ineficiente del Inventario y Experiencia del Cliente Limitada
+<h2 align="center"> Gestión Ineficiente del Inventario y Experiencia del Cliente Limitada</h2>
 
 En el negocio películas PolainasMovies, se enfrentan a una gestión ineficiente del inventario y una experiencia del cliente limitada, debido a la falta de una API que conecte y automatice sus sistemas internos. Actualmente, la información sobre el inventario de películas se mantiene de manera descentralizada y manual, lo que resulta en varios desafíos, por lo cual la implementación de una API bien diseñada resolvería estos problemas al facilitar la automatización de procesos, mejorando la precisión de los datos.
+
 
 ## 💻 Funcionalidad:
 La funcionalidad de esta API, se basa en que tiene altas, bajas, cambios y consultas que es comunmente utilizada para que se comunique el inventario.
@@ -23,9 +24,11 @@ Cada una tiene una funcionalidad la cual es:
 * PUT(actualizar): Remplaza un dato o información que ya exista en el servidor, la cual se debe hacer referencia al ID, del registro al cual querras modificar.
 * DELETE(eliminar): Elimina un recurso existente, la cual puedes especificar el ID del recurso que quieras eliminar.
 
+
 ## ✅ Tecnologias Utilizadas:
 * JavaScript
 * Ubuntu
+
   
 ## 📂 Acceso al Proyecto
 
