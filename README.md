@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 <h1 align="center"> The Buggs Bunnys  </h1>
 
-![Logo Polainas Movies](https://github.com/Obleas777/ProyectoBootcam/assets/108082744/2fe7ae63-f31e-4837-b40d-ac57f0feba11)
+<img src="[ruta/de/la/imagen.jpg](https://github.com/Obleas777/ProyectoBootcam/assets/108082744/2fe7ae63-f31e-4837-b40d-ac57f0feba11)" width="200" height="200">
 
 ## Tabla de Contenidos
 1. [Problematica](#problematica)
