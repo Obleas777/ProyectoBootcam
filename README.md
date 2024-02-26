@@ -1,7 +1,9 @@
 <<<<<<< HEAD
-# Fullstack dApp (Azle + Express + NextJS + ICP)
+# The Buggs Bunnys 
 
-This template is designed to easily build applications deployed on ICP using Azle + Express for RESTful APIs and Next.js for frontend development.
+problematica: Gestión Ineficiente del Inventario y Experiencia del Cliente Limitada
+
+En el negocio de películas PolainasMovies, se enfrentan a una gestión ineficiente del inventario y una experiencia del cliente limitada, debido a la falta de una API que conecte y automatice sus sistemas internos. Actualmente, la información sobre el inventario de películas se mantiene de manera descentralizada y manual, lo que resulta en varios desafíos, por lo cual la implementación de una API bien diseñada resolvería estos problemas al facilitar la automatización de procesos, mejorando la precisión de los datos.
 
 ## Run Locally
 
