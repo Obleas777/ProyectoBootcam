@@ -24,7 +24,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd azle-api-rest-nextjs
+  cd ProyectoBootcam
 ```
 
 Install dependencies
