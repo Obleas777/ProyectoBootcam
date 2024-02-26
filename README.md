@@ -12,6 +12,11 @@ POST(altas): Envia la información al servidor para que sea procesada y almacena
 GET(consultas): Recupera información o recursos del servidor.
 PUT(actualizar): Remplaza un dato o información que ya exista en el servidor, la cual se debe hacer referencia al ID, del registro al cual querras modificar.
 DELETE(eliminar): Elimina un recurso existente, la cual puedes especificar el ID del recurso que quieras eliminar.
+
+Tecnologias Utilizadas:
+-JavaScript
+-Ubuntu
+
 ## Run Locally
 
 Clone the project
