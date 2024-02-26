@@ -16,10 +16,9 @@
 En el negocio películas PolainasMovies, se enfrentan a una gestión ineficiente del inventario y una experiencia del cliente limitada, debido a la falta de una API que conecte y automatice sus sistemas internos. Actualmente, la información sobre el inventario de películas se mantiene de manera descentralizada y manual, lo que resulta en varios desafíos, por lo cual la implementación de una API bien diseñada resolvería estos problemas al facilitar la automatización de procesos, mejorando la precisión de los datos.
 
 
-## 💻 Funcionalidad:
-{#funcionalidad}
+## Funcionalidad:
 
-La funcionalidad de esta API, se basa en que tiene altas, bajas, cambios y consultas que es comunmente utilizada para que se comunique el inventario.
+💻 La funcionalidad de esta API, se basa en que tiene altas, bajas, cambios y consultas que es comunmente utilizada para que se comunique el inventario.
 Cada una tiene una funcionalidad la cual es:
 * POST(altas): Envia la información al servidor para que sea procesada y almacenada.
 * GET(consultas): Recupera información o recursos del servidor.
@@ -27,10 +26,10 @@ Cada una tiene una funcionalidad la cual es:
 * DELETE(eliminar): Elimina un recurso existente, la cual puedes especificar el ID del recurso que quieras eliminar.
 
 
-## ✅ Tecnologias Utilizadas:
-{#tecnologias-Utilizadas}
-* JavaScript
-* Ubuntu
+## Tecnologias Utilizadas:
+
+* ✅ JavaScript
+* ✅ Ubuntu
 
   
 ## 📂 Acceso al Proyecto
