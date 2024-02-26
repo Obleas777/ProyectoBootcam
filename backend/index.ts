@@ -47,7 +47,7 @@ app.get("/peliculas", (req, res) => {
         const existente = peliculas.find(pelis => pelis.id ===nuevo.id);
         if(!existente){
             peliculas = [...peliculas, req.body]
-            res.send("Ok");
+            res.send("El registro se inserto correctamente");
         }
         else{
             res.status(404).send("El id que intentas crear ya existe");
