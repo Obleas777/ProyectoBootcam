@@ -4,7 +4,7 @@
 ## Tabla de Contenidos
 1. [Problematica](#problematica)
 2. [Funcionalidad](#funcionalidad)
-3. [Tecnologias implicadas](#tecnologias-Utilizadas)
+3. [Tecnologias Utilizadas](#tecnologias-Utilizadas)
 4. [Run Locally](#run-Locally)
 5. [Autores](#autores)
 
@@ -121,6 +121,6 @@ Run the following script:
 ## Autores 
 * :octocat: Omar Vazquez (Omar19Ort)
 * :octocat: Obed Alvarado (Obleas 777)
-* :octocat: Litzy Diaz O (LitzyDiaz0)
+* :octocat: [Litzy Diaz O](https://github.com/LitzyDiaz0).
   
 >>>>>>>
